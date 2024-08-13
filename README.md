@@ -51,7 +51,7 @@ Windows Registry Editor Version 5.00
 [HKEY_CLASSES_ROOT\SystemFileAssociations\.ps1\Shell\Windows.PowerShell.Run\Command]
 @="\"C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe\" \"-Command\" \"if((Get-ExecutionPolicy ) -ne 'AllSigned') { Set-ExecutionPolicy -Scope Process Bypass }; & '%1'\""
 ```
-Q2. How to set the folder for saving the Recorded videos in VLC Media Player ?
+Q2. How to set the folder for saving the Recorded videos in VLC Media Player ?  
 A2. https://wiki.videolan.org/VLC_HowTo/Set_the_recording_folder/
  - Navigate to Tools -> Preferences -> Input&codecs and Record directory or filename.
  - Note: Press `Save` button to save VLC settings and _restart VLC after that_ to make sure changes are enabled.
