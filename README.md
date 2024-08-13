@@ -2,8 +2,7 @@
 PowerShell scripts for Mick's IT Blogs
 
 ### General Issues with reference links to answers / solutions:
-Q1. "Run with Powershell" context menu item disappeared / removed accidentally.
-
+Q1. "Run with Powershell" context menu item disappeared / removed accidentally.  
 A1. Follow the correct answer given here: https://github.com/PowerShell/PowerShell/issues/14216#issue-748123628
 Or just follow the code given here: https://github.com/PowerShell/PowerShell/issues/14216#issuecomment-1084010061  
 
